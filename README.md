@@ -31,5 +31,6 @@ It can fetch **weather updates 🌦️**, read out the **latest news 📰**, set
 ---
 
 ## ⚡ output
-
+![Image](https://github.com/user-attachments/assets/1d93fbd1-068f-439e-a93b-caea9bd6e5f5)
+![Image](https://github.com/user-attachments/assets/7841d982-089a-46ed-b0de-1ca6a0a60957)
 
